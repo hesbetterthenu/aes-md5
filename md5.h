@@ -1,0 +1,1 @@
+﻿void md5(unsigned char *initial_msg, int initial_len, unsigned char* res);
